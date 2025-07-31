@@ -9,7 +9,6 @@
 Ce projet a été conçu pour démontrer :
 - Une bonne maîtrise de la programmation orientée objet (POO)
 - L'utilisation de Windows Forms (WinForms) en C#
-- La capacité à parser et évaluer dynamiquement des expressions mathématiques
 - Une architecture de code claire, propre et maintenable
 
 ---
