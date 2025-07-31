@@ -1,6 +1,5 @@
 using System;
 using System.Data;
-using System.Linq.Expressions;
 using System.Windows.Forms;
 
 namespace WinFormsApp_Calculatrice_Teste
@@ -17,6 +16,7 @@ namespace WinFormsApp_Calculatrice_Teste
         {
             nb1 = nb2 = 0;
 
+            // Tente de convertir le texte des champs txtNb1 et txtNb2 en double
             bool valid1 = double.TryParse(txtNb1.Text.Trim(), out nb1);
             bool valid2 = double.TryParse(txtNb2.Text.Trim(), out nb2);
 
@@ -30,6 +30,7 @@ namespace WinFormsApp_Calculatrice_Teste
             return true;
         }
 
+        // Function Addition
         private void btnPlus_Click(object sender, EventArgs e)
         {
             if (TryGetValues(out double nb1, out double nb2))
@@ -38,6 +39,7 @@ namespace WinFormsApp_Calculatrice_Teste
             }
         }
 
+        // Function de soustraction
         private void btnMoins_Click(object sender, EventArgs e)
         {
             if (TryGetValues(out double nb1, out double nb2))
@@ -46,6 +48,7 @@ namespace WinFormsApp_Calculatrice_Teste
             }
         }
 
+        //Function Multiplication
         private void btnMult_Click(object sender, EventArgs e)
         {
             if (TryGetValues(out double nb1, out double nb2))
@@ -54,6 +57,7 @@ namespace WinFormsApp_Calculatrice_Teste
             }
         }
 
+        // Function de Division
         private void btnDiv_Click(object sender, EventArgs e)
         {
             if (TryGetValues(out double nb1, out double nb2))
@@ -68,13 +72,16 @@ namespace WinFormsApp_Calculatrice_Teste
             }
         }
 
+        // Reinitialiser tous les champs de saisie
         private void btnInitialiser_Click(object sender, EventArgs e)
         {
             txtNb1.Text = "";
             txtNb2.Text = "";
             txtResult.Text = "";
+            txtExpression.Text = "";
         }
 
+        // Function de Puissance : élève nb1 a la puissance nb2 
         private void btnPower_Click(object sender, EventArgs e)
         {
             if (TryGetValues(out double nb1, out double nb2))
@@ -83,8 +90,10 @@ namespace WinFormsApp_Calculatrice_Teste
             }
         }
 
+        // Function Racine carree : appliquee uniquement sur nb1
         private void btnSqrt_Click(object sender, EventArgs e)
         {
+            // Essaie de convertir la saisie du champ txtnb1
             if (double.TryParse(txtNb1.Text.Trim(), out double nb1))
             {
                 if (nb1 < 0)
@@ -102,6 +111,7 @@ namespace WinFormsApp_Calculatrice_Teste
             }
         }
 
+        // Evalue une expression complete saisie par l'utilisateur
         private void btnEvaluer_Click(object sender, EventArgs e)
         {
             string expression = txtExpression.Text;

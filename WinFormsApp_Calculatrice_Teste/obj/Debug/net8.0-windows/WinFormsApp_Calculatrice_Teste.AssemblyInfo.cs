@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsApp_Calculatrice_Teste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f4024553b655d9a57c8a04817a16cbcb2885e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsApp_Calculatrice_Teste")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsApp_Calculatrice_Teste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

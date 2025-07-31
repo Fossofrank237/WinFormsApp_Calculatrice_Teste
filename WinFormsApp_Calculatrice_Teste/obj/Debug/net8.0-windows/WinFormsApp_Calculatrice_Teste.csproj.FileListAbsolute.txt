@@ -14,3 +14,4 @@ C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Cal
 C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.pdb
 C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.genruntimeconfig.cache
 C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\ref\WinFormsApp_Calculatrice_Teste.dll
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.sourcelink.json
