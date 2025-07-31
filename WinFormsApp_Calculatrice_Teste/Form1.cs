@@ -81,7 +81,7 @@ namespace WinFormsApp_Calculatrice_Teste
             txtExpression.Text = "";
         }
 
-        // Function de Puissance : élève nb1 a la puissance nb2 
+        // Function de Puissance : eleve nb1 a la puissance nb2 
         private void btnPower_Click(object sender, EventArgs e)
         {
             if (TryGetValues(out double nb1, out double nb2))
