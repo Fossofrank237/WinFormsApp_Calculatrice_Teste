@@ -9,7 +9,6 @@
 Ce projet a été conçu pour démontrer :
 - Une bonne maîtrise de la programmation orientée objet (POO)
 - L'utilisation de Windows Forms (WinForms) en C#
-- La capacité à parser et évaluer dynamiquement des expressions mathématiques
 - Une architecture de code claire, propre et maintenable
 
 ---
@@ -20,7 +19,7 @@ Ce projet a été conçu pour démontrer :
 - Opérations de base : `+`, `-`, `×`, `÷`
 - Opérations avancées :
   - Puissance `^`
-  - Racine carrée `√` (`sqrt(x)`)
+  - Racine carrée `√` 
   - Évaluation d'expressions complexes via un moteur d’analyse personnalisé
 - Gestion des erreurs (ex. division par zéro, saisie invalide)
 - Interface utilisateur intuitive (WinForms)
