@@ -1,0 +1,16 @@
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\bin\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.exe
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\bin\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.deps.json
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\bin\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.runtimeconfig.json
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\bin\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.dll
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\bin\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.pdb
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.Form1.resources
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.csproj.GenerateResource.cache
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.AssemblyInfoInputs.cache
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.AssemblyInfo.cs
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.dll
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\refint\WinFormsApp_Calculatrice_Teste.dll
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.pdb
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\WinFormsApp_Calculatrice_Teste.genruntimeconfig.cache
+C:\Users\Fosso frank\source\repos\WinFormsApp_Calculatrice_Teste\WinFormsApp_Calculatrice_Teste\obj\Debug\net8.0-windows\ref\WinFormsApp_Calculatrice_Teste.dll
