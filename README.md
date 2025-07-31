@@ -19,7 +19,7 @@ Ce projet a été conçu pour démontrer :
 - Opérations de base : `+`, `-`, `×`, `÷`
 - Opérations avancées :
   - Puissance `^`
-  - Racine carrée `√` (`sqrt(x)`)
+  - Racine carrée `√` 
   - Évaluation d'expressions complexes via un moteur d’analyse personnalisé
 - Gestion des erreurs (ex. division par zéro, saisie invalide)
 - Interface utilisateur intuitive (WinForms)
